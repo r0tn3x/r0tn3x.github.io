@@ -79,163 +79,145 @@ about_content: | # this will include new lines to allow paragraphs
   
 <section>
     <h2>About</h2>
-    <p>
-      Welcome to my corner of the internet. I'm <strong>Dilanka Kaushal Hewage</strong> — you might know me as 
-      <strong>r0tn3x</strong>. This page was last updated in late 2025, and I'll try to keep it current as things evolve.
-    </p>
-<p>
-  I'm an Offensive Security Engineer and researcher based in Dubai, UAE, with a passion for breaking things 
-  (legally), reverse engineering malware, and pushing the boundaries of what's possible in offensive security. 
-  For the past four years, I've been working at <a href="https://www.dha.gov.ae/">Dubai Health Authority</a> 
-  as a Senior Application Security Engineer, where I conduct red team operations, penetration testing, and 
-  malware analysis to protect critical healthcare infrastructure.
-</p>
-
-<p>
-  Before DHA, I spent time at AIX Investment Group working on blockchain security and cryptocurrency platform 
-  assessments, and before that, I cut my teeth at the Department of Defense in Sri Lanka, where I received 
-  some of the best red teaming training available and worked alongside nation-state-level teams.
-</p>
-
-<p>
-  I hold a <strong>B.Sc. in Computer Science</strong> from Singhania University (CGPA: 8.14/10.0). Currently, 
-  I'm pursuing my <strong>M.Sc. in Computer Science</strong> at IU University, with plans to transition into 
-  academia. My long-term goal is to become a professor or senior lecturer, bridging the gap between practical 
-  offensive security and academic research.
-</p>
+  <p>
+  I received my MSc in Artificial Intelligence at the <a href="https://www.essex.ac.uk/">University of Essex</a>, supervised by
+  <a href="https://www.essex.ac.uk/people/CITIL35902/Luca-Citi">Professor Luca Citi</a>. Previously, I obtained my
+  bachelor's degree from the <a href="https://eng.uok.ac.ir/en/">University of Kurdistan</a>. During my postgraduate studies,
+  I was working on reasoning in LLMs for code generation; as a result, I developed a new approach for guiding the 
+  generation process. It consisted of a separate deep-think stage with self-reflection and 
+  a direct integration of thoughts (hidden states) into the LLM's main generation's hidden states using model surgery! 
+  This framework called <a href="https://soran-ghaderi.github.io/nir/">NIR</a> is applicable to various LLMs without 
+  finetuning. As an extension, It has a thought memory manager which controls the memories and thoughts of the LLM 
+  (not included in the evaluations) which allows the integration of approaches like Neural Turing Machines or DNC and LLMs.
+  
+  I have also contributed to the open-source projects and have collaborated with research teams in the past.</p>
   </section>
-  <br>
-  <section>
-    <h2>What I Do</h2>
-<p>My work revolves around:</p>
-
-<ul>
-  <li><strong>Red Teaming & Adversary Emulation</strong> — simulating APT tactics to test organizational defenses</li>
-  <li><strong>Binary Exploitation & Reverse Engineering</strong> — my absolute favorite. Give me IDA Pro, a binary, and some coffee, and I'm happy</li>
-  <li><strong>Malware Analysis & Development</strong> — dissecting malicious code and building custom offensive tools</li>
-  <li><strong>Penetration Testing</strong> — web apps, APIs, networks, cloud infrastructure, IoT devices, you name it</li>
-  <li><strong>Active Directory Attacks</strong> — privilege escalation, lateral movement, domain dominance</li>
-  <li><strong>C2 Framework Operations</strong> — Cobalt Strike, Brute Ratel (BRC4), PoshC2, Empire, and custom implants</li>
-</ul>
-  </section>
+  
   <br>
   <section>
     <h2>Research Interests</h2>
-<p>
-  I'm deeply interested in the intersection of <strong>offensive security and AI/ML</strong>. Specifically:
-</p>
-
-<ul>
-  <li>How machine learning can be weaponized in offensive operations</li>
-  <li>Adversarial machine learning and model exploitation</li>
-  <li>AI-powered red teaming and automated exploit generation</li>
-  <li>Defensive AI and detection mechanisms</li>
-</ul>
-
-<p>
-  I also maintain an active research focus on <strong>zero-day discovery, exploit development, and advanced 
-  evasion techniques</strong>.
-</p>
+  
+    <p>
+    My ultimate objective is to study the cognitive mechanisms underlying intelligence and develop embodied agents able to
+    reason and interact with the real world.
+    </p>
+    
+    <p>
+    A major challenge in current AI models is their struggle with generalization, consistent logical reasoning, and decision-making,
+    especially in scenarios that require multi-step inference or handling previously unseen situations. Current models (ie. LLMs) can
+    generate highly semantically coherent text, yet, often fail in robust reasoning abilities that are necessary for tasks
+    such as complex problem-solving, planning, or adapting to novel environments.
+    </p>
+    
+    <p>
+    Researchers have explored many approaches such as Prompt engineering methods (eg. CoT and self-reflection), which 
+    can enhance reasoning abilities to an extent as a temporary and short-term solution, however, they are limited 
+    and are not architecturally native to the models. 
+    Therefore, my research focuses on developing <strong>differentiable approaches for implementing iterative reasoning</strong> and
+    decision-making in uncertain environments in embodied agents.
+    This involves developing new architectures that can maintain coherent thought processes across multiple inference steps.<br>
+    </p>
+    
+    <p>Currently, I am exploring diffusion models, score-based and flow-based models, differential geometry 
+    (particularly Riemannian geometry), metric learning, energy-based models, joint embedding predictive architectures 
+    operating in the latent spaces among others to design generalizable intelligent agents capable of reasoning 
+    (as an optimization problem), deliberate planning (system 2-like), and able to handle uncertainty (in the inference-time)</p>
+    
+    <p>
+    In a wider context, I am fascinated by the idea of developing a network of specialized networks such as memory and rapid learning,
+    goal-driven planning, spatial reasoning, and error detection and conflict monitoring that operate collaboratively to 
+    consistently make good decisions within a complex environment. I am interested in transformers and attention
+    mechanisms with a bias toward efficient computation in these settings: generative models, multimodal
+    learning, and self-supervised learning.
+    </p>
+    <br><br>
+    <section>
+    <h2>Research Highlights</h2>
+    <ul>
+        <li><strong>Reasoning and Planning</strong>: Embodied agents able to reason, plan and adapt to new environments</li> 
+        <li><strong>Representation learning</strong>: Efficiently learn the geometry of parameters and data distributions</li>
+        <li><strong>Handling OOD problems</strong>: Robust out-of-distribution generalization</li>
+        <li><strong>Embodied Intelligent Agents</strong>: Agents that comprise the above capabilities and able to learn 
+        while interacting with the world</li>
+    </ul>
   </section>
-  <br>
+  </section>
+  
   <section>
-    <h2>Certifications</h2>
-<p>I've collected a few certifications over the years. Some might be expired, but the knowledge sticks around:</p>
+    <h2>News</h2>
+    <ul>
+        <li>I defended my MSc at the University of Essex - CSEE! (<a href="https://soran-ghaderi.github.io/nir/">Thesis</a>) - Oct. 2024</li> 
+    </ul>
+  </section>
+  
+  <section>
+    <h2>Awards</h2>
+    <ul>
+        <li>Fully funding scholarship for postgraduate studies in Artificial Intelligence, University of Essex</li>
+    </ul>
+  </section>
+  
+#        I am a Master's student pursuing a specialization in Artificial Intelligence at the University of Essex.
+#      With over three years of hands-on experience, my passion lies in the realm of deep learning and autonomous agents.
+#
+#      I am eager to explore the potential of attention mechanisms in enhancing the performance of multimodal models in
+#      representation learning, reasoning, and zero-shot learning within uncertain environments.
+#
+#      Parallel to this, I have actively engaged in freelance work and collaborated with research teams, and have made
+#      contributions to the open-source community.
 
-<ul>
-  <li>Certified Red Team Lead (CRTL)</li>
-  <li>Certified Red Team Operator (CRTO)</li>
-  <li>Offensive Security Certified Professional (OSCP+)</li>
-  <li>Certified Ethical Hacker v13 (CEHv13)</li>
-  <li>Certified Red Team Adversary (CRTA)</li>
-  <li>Certified Red Team Expert (CRTE)</li>
-  <li>Certified Red Team Professional (CRTP)</li>
-  <li>OffSec Certified Expert (OSCE)</li>
-  <li>Certified Penetration Tester eXtreme (eCPTX)</li>
-  <li>Certified Professional Penetration Tester (eCPPT)</li>
-  <li>Web Application Penetration Tester (eWAPT)</li>
-  <li>Certified Reverse Engineer (eCRE)</li>
-  <li>Certified Penetration Testing Specialist (CPTS) - HackTheBox</li>
-  <li>CEH Master (CEHv12+Practical)</li>
-  <li>eLearnSecurity Junior Penetration Tester (eJPT)</li>
-  <li>Lead Implementer in Information Security, Cybersecurity and Privacy Protection - ISO/IEC 27001:2022</li>
-</ul>
-  </section>
-  <br>
-  <section>
-    <h2>CTF & Competitions</h2>
-<p>
-  I'm a CTF addict. There's something about the thrill of solving a challenge at 3 AM that keeps me coming back. 
-  Some highlights:
-</p>
+#  ### Academic accomplishments<br>
+#
+#
+#
+#  <br>
 
-<ul>
-  <li><strong>HackTheBox Hall of Fame</strong> — World Rank 12 (2022) under the handle "Omniscient"</li>
-  <li><strong>TryHackMe Top 1%</strong> — World Rank 22 (2023)</li>
-  <li><strong>Nullcon HackIM CTF 2016</strong> — 1st Place</li>
-  <li><strong>GISEC CTF 2024</strong> (Government Entities) — 1st Place individually with 4 First Bloods</li>
-  <li><strong>Avengercon Empire CTF 2018</strong> — 3rd Place</li>
-  <li><strong>NSA Cyber Exercise CTF 2018</strong> — 7th Place</li>
-</ul>
-  </section>
-  <br>
-  <section>
-    <h2>Training & Continuous Learning</h2>
-<p>I'm a big believer in continuous learning. Some of the training programs that shaped my skills:</p>
+#  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
+#    - Lists
+#    - Tables
+#    - <a href="google.com">Links</a>
+#    - Images
 
-<ul>
-  <li><strong>MDSec</strong> - Adversary Simulation and Red Team Tactics (2016, 2023)</li>
-  <li><strong>SANS SEC560</strong> - Enterprise Penetration Testing (2019)</li>
-  <li><strong>SANS SEC660</strong> - Advanced Penetration Testing, Exploit Writing, and Ethical Hacking (2019)</li>
-  <li><strong>SANS SEC760</strong> - Advanced Exploit Development for Penetration Testing (2020)</li>
-  <li><strong>SANS SEC565</strong> - Red Team Operations and Adversary Emulation (2023)</li>
-  <li><strong>Mandiant</strong> - Creative Red Teaming (2021)</li>
-  <li><strong>Mr.Un1k0d3r</strong> - Red Team Training (2022), Offensive Coding (2024)</li>
-  <li><strong>Dark Vortex (Chetan Nayak)</strong> - Red Team & Operational Security, Offensive Tool Development, Malware On Steroids (2023)</li>
-  <li><strong>Pentester Academy</strong> - Attacking and Defending Active Directory: Advanced Edition (2022)</li>
-  <li><strong>Antisphony Training</strong> - HackerOps, Enterprise Attacker Emulation, Active Defense & Cyber Deception, Attack Emulation Tools, Advanced Offensive Tooling (2024)</li>
-  <li><strong>White Knight Labs</strong> - Advanced Red Team Operations (2023)</li>
-  <li><strong>BlackHat</strong> - Att&cking the Enterprise: A Purple Team's Approach (2016)</li>
-</ul>
-  </section>
-  <br>
-  <section>
-    <h2>Open Source & Community</h2>
-<p>
-  I maintain a blog at <a href="https://n0p5l1d3r.github.io/">n0p5l1d3r.github.io</a> where I share writeups, 
-  research, and technical deep-dives. I also contribute to open-source security tools and participate in 
-  bug bounty programs (shout out to Infogram for the $3500 bounty for those XSS, SSRF, and RCE findings).
-</p>
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
 
-<p>
-  You can find my work on <a href="https://github.com/n0p5l1d3r">GitHub</a> — feel free to check out my 
-  projects, tools, and POCs.
-</p>
-  </section>
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+education_title: Education #(Use this to override about education section title)
+publication_title: Publications
+skills_title: Skills
+# More Section
+# more_title: A Little More About Me #(Use this to override about more section title)
+
+
+# more content
+more_content: | # this will include new lines to allow paragraphs
+  
+  I'm Dilanka Kaushal Hewage holding a BEng. in computer software engineering since 2018. My academic passions encompass the
+  cutting-edge research conducted in the fields of machine learning; particularly, methods that are
+  trying to understand and represent the surrounding world optimally.<br>
+
+  During my B.Eng., recommendation systems, and bioinformatics were what I was interested in, along which I engrossed in
+  machine learning and deep learning fields. Those were the impetuses to delve more deeply into the theories.
+  Following the outstanding papers and research published by the internationally renowned research-labs and
+  tech-companies for the last few years, on the one hand, I have acquired a general idea of the current challenges scientists
+  are facing. On the other hand, having an avid interest in coding and hands-on stuff, I've got an up-to-date knowledge of
+  current technologies used in the field of machine learning, including a couple of frameworks and libraries as
+  well as some of the well-known optimization and high-performance computing techniques.<br>
   <br>
-  <section>
-    <h2>Philosophy</h2>
-<p>
-  I believe in the hacker ethos: curiosity, persistence, and responsible disclosure. Security isn't just 
-  about breaking things — it's about understanding systems deeply enough to make them better. My goal is 
-  to contribute to both the offensive security industry and academic research, helping train the next 
-  generation while pushing the boundaries of what's possible.
-</p>
-  </section>
-  <br>
-  <section>
-    <h2>Contact</h2>
-<p>
-  If you want to reach out, you can email me at <strong>r0tn3x[at]gmail[dot]com</strong> or connect with 
-  me on <a href="https://www.linkedin.com/in/dilanka-kaushal-hewage/">LinkedIn</a>. Always happy to chat 
-  about security, research, CTFs, or just about anything interesting.
-</p>
-  </section>
-  <br>
-  <hr>
-  <p style="text-align: center; font-style: italic;">
-    "The best way to learn is to break things, understand why they broke, and build something better."
-  </p>
+#  ### Technical skills<br>
+#
+#  Will be uploaded soon<br>
+#
+#  I'm a bit pressed for time at the moment, however, I will upload more information later on. If you think you'll come
+#  here once in a blue moon and I can help you out in someway, then you can drop me an email or check out my
+#  <a href="https://www.linkedin.com/in/soran-ghaderi/">Linkedin</a>.
+
+#  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+
+#  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
