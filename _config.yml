@@ -22,7 +22,7 @@ repository: https://github.com/soran-ghaderi/soran-ghaderi.github.io
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Soran Ghaderi
+name: Dilanka Kaushal Hewage
 title: Looking for PhD & Research/Job Opportunities - MSc in AI at the University of Essex
 email: soran.gdr.cs@gmail.com
 #phone: Your phone number (optional)
@@ -32,7 +32,7 @@ email: soran.gdr.cs@gmail.com
 darkmode: true
 
 # Social links
-twitter_username: soranghadri
+twitter_username: r0tn3x
 github_username: soran-ghaderi
 #medium_username: soran-ghaderi
 #stackoverflow_username: "00000001"
@@ -59,7 +59,7 @@ additional_links:
     url: https://www.researchgate.net/profile/Soran-Ghaderi
   # - title: kaggle
     # icon: fab fa-kaggle
-    # url: https://www.kaggle.com/soranghadri
+    # url: https://www.kaggle.com/r0tn3x
 
 
 #- title: another link
@@ -195,7 +195,7 @@ skills_title: Skills
 # more content
 more_content: | # this will include new lines to allow paragraphs
   
-  I'm Soran Ghaderi holding a BEng. in computer software engineering since 2018. My academic passions encompass the
+  I'm Dilanka Kaushal Hewage holding a BEng. in computer software engineering since 2018. My academic passions encompass the
   cutting-edge research conducted in the fields of machine learning; particularly, methods that are
   trying to understand and represent the surrounding world optimally.<br>
 
