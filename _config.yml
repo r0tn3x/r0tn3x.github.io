@@ -1,8 +1,8 @@
 # Site
 
 #description: "Jekyll template, Medium styled, free for bloggers."
-logo: 'images/profile.jpeg'
-favicon: 'images/profile.jpeg'
+logo: 'images/r0tn3x.jpg'
+favicon: 'images/r0tn3x.jpg'
 baseurl: '/'
 google_analytics: 'UA-46278016-1'
 #disqus: 'demowebsite'
@@ -18,13 +18,13 @@ include:
 
 # --------------------------------------------------------------------------------------
 
-repository: https://github.com/soran-ghaderi/soran-ghaderi.github.io
+repository: https://github.com/r0tn3x/r0tn3x.github.io
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
 name: Dilanka Kaushal Hewage
-title: Looking for PhD & Research/Job Opportunities - MSc in AI at the University of Essex
-email: soran.gdr.cs@gmail.com
+title: Adventures In Security
+email: r0tn3x@gmail.com
 #phone: Your phone number (optional)
 #website: https://soran-ghaderi.github.io
 
@@ -33,30 +33,30 @@ darkmode: true
 
 # Social links
 twitter_username: r0tn3x
-github_username: soran-ghaderi
-#medium_username: soran-ghaderi
-#stackoverflow_username: "00000001"
-#dribbble_username: jekyll
-#facebook_username: jekyll
-#flickr_username: jekyll
-#instagram_username: jekyll
-linkedin_username: soran-ghaderi
-#xing_username: jekyll
-#pinterest_username: jekyll
-#youtube_username: jekyll
-# googleplus_username: +jekyll
-orcid_username: 0009-0004-6564-4517
+github_username: r0tn3x
+medium_username: r0tn3x
+#stackoverflow_username: "r0tn3x"
+#dribbble_username: r0tn3x
+#facebook_username: r0tn3x
+#flickr_username: r0tn3x
+#instagram_username: r0tn3x
+linkedin_username: r0tn3x
+#xing_username: r0tn3x
+#pinterest_username: r0tn3x
+#youtube_username: r0tn3x
+# googleplus_username: +r0tn3x
+# orcid_username: 0009-0004-6564-4517
 #googlescholar_username: -2N2iKcAAAAJ
 
 
 # Additional icon links
-additional_links:
-  - title: Google Scholar
-    icon: fab fa-google-scholar
-    url: https://scholar.google.com/citations?user=-2N2iKcAAAAJ&hl=en&authuser=5
-  - title: ResearchGate
-    icon: fab fa-researchgate
-    url: https://www.researchgate.net/profile/Soran-Ghaderi
+# additional_links:
+  # - title: Google Scholar
+  #  icon: fab fa-google-scholar
+  #  url: https://scholar.google.com/citations?user=-2N2iKcAAAAJ&hl=en&authuser=5
+  #- title: ResearchGate
+  #  icon: fab fa-researchgate
+  #  url: https://www.researchgate.net/profile/Soran-Ghaderi
   # - title: kaggle
     # icon: fab fa-kaggle
     # url: https://www.kaggle.com/r0tn3x
@@ -74,7 +74,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/profile.jpeg #Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/r0tn3x.jpg #Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   
   <section>
