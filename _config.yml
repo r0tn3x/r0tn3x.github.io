@@ -77,7 +77,7 @@ linkedin_username: r0tn3x
 about_profile_image: images/r0tn3x.jpg #Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   
-<section>
+  <section>
     <h2>About</h2>
   <p>
   I received my MSc in Artificial Intelligence at the <a href="https://www.essex.ac.uk/">University of Essex</a>, supervised by
