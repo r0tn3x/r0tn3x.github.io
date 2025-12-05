@@ -147,7 +147,7 @@ about_content: | # this will include new lines to allow paragraphs
         <li>Developed <a href="https://github.com/r0tn3x/llm-reasoning-framework">LLM Reasoning Framework</a> for enhanced code generation and security analysis</li> 
     </ul>
   </section>
-  
+  <br><br>
   <section>
     <h2>Awards</h2>
     <ul>
@@ -155,7 +155,7 @@ about_content: | # this will include new lines to allow paragraphs
         <li>Bachelor's degree, Singhania University</li>
     </ul>
   </section>
-
+  <br><br>
   <h2>Certifications</h2>
   <ul>
     <li>Offensive Security Exploitation Expert (OSEE)</li>
@@ -172,7 +172,7 @@ about_content: | # this will include new lines to allow paragraphs
   </ul>
 
   <h2>Training & Professional Development</h2>
-  
+  <br><br>
   <h3>2024</h3>
   <ul>
     <li>HackerOps - Antisphony Training (Ralph May)</li>
@@ -231,7 +231,7 @@ about_content: | # this will include new lines to allow paragraphs
     <li>Adversary Simulation and Red Team Tactics - MDSec</li>
     <li>Att&cking the Enterprise: A Purple Team's Approach to Protecting Your Environment - BlackHat</li>
   </ul>
-  
+  <br><br>
 #        I am a Master's student pursuing a specialization in Artificial Intelligence at the University of Essex.
 #      With over three years of hands-on experience, my passion lies in the realm of deep learning and autonomous agents.
 #
