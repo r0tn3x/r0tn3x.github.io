@@ -93,9 +93,6 @@ about_content: | # this will include new lines to allow paragraphs
   <br>
   <section>
     <h2>Research Interests</h2>
-  
-  <h2>Research Interests</h2>
-  
     <p>
     My research focuses on the intersection of artificial intelligence and cybersecurity, particularly exploring how 
     advanced reasoning capabilities in LLMs can be leveraged for security applications and threat detection.
