@@ -157,6 +157,7 @@ about_content: | # this will include new lines to allow paragraphs
   </section>
   <br><br>
   <h2>Certifications</h2>
+  <br>
   <ul>
     <li>Offensive Security Exploitation Expert (OSEE)</li>
     <li>Offensive Security Exploit Developer (OSED)</li>
@@ -172,8 +173,9 @@ about_content: | # this will include new lines to allow paragraphs
   </ul>
   <br><br>
   <h2>Training & Professional Development</h2>
-
+  <br>
   <h3>2024</h3>
+  <br>
   <ul>
     <li>HackerOps - Antisphony Training (Ralph May)</li>
     <li>Enterprise Attacker Emulation and C2 Implant Development - Antisphony Training (Joff Thyer)</li>
@@ -183,8 +185,9 @@ about_content: | # this will include new lines to allow paragraphs
     <li>Modern Initial Access and Evasion Tactics (mgeeky)</li>
     <li>Offensive Coding (Mr.Un1k0d3r)</li>
   </ul>
-
+  <br>
   <h3>2023</h3>
+  <br>
   <ul>
     <li>SANS SEC565 - Red Team Operations and Adversary Emulation</li>
     <li>Advanced Red Team Operations - White Knight Labs</li>
@@ -194,8 +197,9 @@ about_content: | # this will include new lines to allow paragraphs
     <li>Red Team Operator: Malware Development Advanced - Sektor7</li>
     <li>Adversary Simulation and Red Team Tactics - MDSec</li>
   </ul>
-
+  <br>
   <h3>2022</h3>
+  <br>
   <ul>
     <li>Red Team Lead (CRTO2) - Zero-Point Security</li>
     <li>Windows Internals (Pavel Yosifovich)</li>
@@ -204,28 +208,32 @@ about_content: | # this will include new lines to allow paragraphs
     <li>Red Team Training (Mr.Un1k0d3r)</li>
     <li>Attacking and Defending Active Directory: Advanced Edition Bootcamp - Pentester Academy (Nikhil Mittal)</li>
   </ul>
-
+  <br>
   <h3>2021</h3>
+  <br>
   <ul>
     <li>Windows User Mode Exploit Development - OffSec</li>
     <li>Red Team Operator (CRTO) - Zero-Point Security</li>
     <li>Creative Red Teaming - Mandiant</li>
   </ul>
-
+  <br>
   <h3>2019-2020</h3>
+  <br>
   <ul>
     <li>SANS SEC760 - Advanced Exploit Development for Penetration Testing</li>
     <li>SANS SEC660 - Advanced Penetration Testing, Exploit Writing, and Ethical Hacking</li>
     <li>SANS SEC560 - Enterprise Penetration Testing</li>
   </ul>
-
+  <br>
   <h3>2018</h3>
+  <br>
   <ul>
     <li>Advanced Software Exploitation - Ptrace Security</li>
     <li>Vulnerability Discovery and Triage Automation - OffensiveCon</li>
   </ul>
-
+  <br>
   <h3>2015-2016</h3>
+  <br>
   <ul>
     <li>Reverse Engineering with IDA Pro - BlackHat EU</li>
     <li>Adversary Simulation and Red Team Tactics - MDSec</li>
