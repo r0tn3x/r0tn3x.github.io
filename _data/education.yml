@@ -1,28 +1,36 @@
 # Education Template
 - layout: left
-  name: University of Essex
+  name: IU International University of Applied Sciences
   dates: 2023 - 2024
-  qualification: MSc. Artificial Intelligence
-#  quote: >
-#    Short institution or course description (optional)
+  qualification: MSc. Cybersecurity
+  quote: >
+    Leading German university specializing in applied sciences and cybersecurity education
   description: | # this will include new lines to allow paragraphs
-    Dissertation: Neural Integration of Iterative Reasoning (NIR) in LLMs for Code Generation (<a href="https://soran-ghaderi.github.io/nir/">Website</a>)
+    Specialized in AI Security, LLM Reasoning, and Advanced Threat Detection Systems
     
-    Other: 
-    - An Automatic Differentiation and Backpropagation Framework from Scratch (with a Keras-like API) (<a href="https://github.com/soran-ghaderi/backpropagation">Codes</a>)
-    - DL Competition Winner 🥇: Inter-Departmental Neural Network Challenge: Rossmann Store Sales
-      - Top scores among cohort (100+ participants): 0.10886 (public) / 0.11384 (private)
-    - Efficient LLM-centric Indoor Navigation Glasses using Jetson Mini 
-    - RL-based Agents for Resistance (social game), Pacman, Chasing and escaping vehicles etc.
-
+    Key Projects and Achievements: 
+    - LLM Reasoning Framework: Developed novel architecture integrating deep-think stages with self-reflection and direct thought integration into LLM hidden states using model surgery techniques (<a href="https://github.com/r0tn3x/llm-reasoning-framework">GitHub</a>)
+    - Implemented thought memory manager for LLM reasoning systems, enabling integration with Neural Turing Machines and Differentiable Neural Computers
+    - Security-focused Code Generation: Built LLM-powered system for automated secure code generation and vulnerability detection
+    - Adversarial AI Research: Explored robustness techniques for LLMs against prompt injection and adversarial attacks
+    - Red Team Automation: Developed AI-assisted tools for penetration testing and security assessment workflows
+    - Malware Analysis: Applied machine learning techniques for behavioral analysis and threat classification
+    
 - layout: left
-  name: University of Kurdistan
+  name: Singhania University
   dates: 2014 - 2018
-  qualification: BEng. Computer Engineering (Software)
-  #  quote: >
-  #    Short institution or course description (optional)
+  qualification: Bachelor's Degree in Computer Science
+  quote: >
+    Comprehensive foundation in computer science, software engineering, and information security
   description: | # this will include new lines to allow paragraphs
-    Thesis: EfficientCoF - A New Efficient Subspace and K-Means Clustering-based Method to Improve Collaborative Filtering (<a href="https://github.com/soran-ghaderi/EfficientCoF">Codes</a>)
+    Built strong foundation in programming, algorithms, and security fundamentals that enabled transition into advanced cybersecurity research
     
-    Other:
-    - Combined Adaptive Neuro-fuzzy Inference System and Particle Swarm Optimization (ANFIS-PSO) for predicting emissions from engine with different fuels (2016)
+    Key Areas and Projects:
+    - Software Development: Proficient in Python, C/C++, Java, and web technologies for building security tools
+    - Network Security: Deep dive into TCP/IP, network protocols, firewalls, and intrusion detection systems
+    - Cryptography: Implementation of various encryption algorithms and security protocols
+    - Web Application Security: OWASP Top 10, SQL injection, XSS, CSRF, and secure coding practices
+    - System Administration: Linux/Windows server hardening, security configuration, and log analysis
+    - Database Security: Secure database design, access control, and data protection techniques
+    - Capstone Project: Security assessment framework combining static and dynamic analysis for vulnerability detection
+    - Open Source Contributions: Active contributor to cybersecurity tools and security-focused projects (<a href="https://github.com/r0tn3x">GitHub Profile</a>)
