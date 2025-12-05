@@ -80,65 +80,65 @@ about_content: | # this will include new lines to allow paragraphs
   <section>
     <h2>About</h2>
   <p>
-  I received my MSc in Artificial Intelligence at the <a href="https://www.essex.ac.uk/">University of Essex</a>, supervised by
-  <a href="https://www.essex.ac.uk/people/CITIL35902/Luca-Citi">Professor Luca Citi</a>. Previously, I obtained my
-  bachelor's degree from the <a href="https://eng.uok.ac.ir/en/">University of Kurdistan</a>. During my postgraduate studies,
-  I was working on reasoning in LLMs for code generation; as a result, I developed a new approach for guiding the 
-  generation process. It consisted of a separate deep-think stage with self-reflection and 
-  a direct integration of thoughts (hidden states) into the LLM's main generation's hidden states using model surgery! 
-  This framework called <a href="https://soran-ghaderi.github.io/nir/">NIR</a> is applicable to various LLMs without 
-  finetuning. As an extension, It has a thought memory manager which controls the memories and thoughts of the LLM 
-  (not included in the evaluations) which allows the integration of approaches like Neural Turing Machines or DNC and LLMs.
-  
-  I have also contributed to the open-source projects and have collaborated with research teams in the past.</p>
+  I received my MSc in Cybersecurity at the <a href="https://www.iu.org/">IU International University of Applied Sciences</a> in Germany. Previously, I obtained my
+  bachelor's degree from <a href="https://singhaniauniversity.ac.in/">Singhania University</a>. During my postgraduate studies,
+  I was working on reasoning in LLMs for code generation and LLM-related cybersecurity; as a result, I developed a new approach for guiding the
+  generation process. It consisted of a separate deep-think stage with self-reflection and
+  a direct integration of thoughts (hidden states) into the LLM's main generation's hidden states using model surgery!
+  This framework called <a href="https://github.com/r0tn3x/llm-reasoning-framework">LLM Reasoning Framework</a> is applicable to various LLMs without
+  finetuning. As an extension, It has a thought memory manager which controls the memories and thoughts of the LLM
+  (not included in the evaluations) which allows the integration of approaches like Neural Turing Machines or DNC and LLMs.</p>
   </section>
   
   <br>
   <section>
     <h2>Research Interests</h2>
   
+  <h2>Research Interests</h2>
+  
     <p>
-    My ultimate objective is to study the cognitive mechanisms underlying intelligence and develop embodied agents able to
-    reason and interact with the real world.
+    My research focuses on the intersection of artificial intelligence and cybersecurity, particularly exploring how 
+    advanced reasoning capabilities in LLMs can be leveraged for security applications and threat detection.
     </p>
     
     <p>
     A major challenge in current AI models is their struggle with generalization, consistent logical reasoning, and decision-making,
-    especially in scenarios that require multi-step inference or handling previously unseen situations. Current models (ie. LLMs) can
-    generate highly semantically coherent text, yet, often fail in robust reasoning abilities that are necessary for tasks
-    such as complex problem-solving, planning, or adapting to novel environments.
+    especially in cybersecurity scenarios that require multi-step inference, vulnerability analysis, or handling previously 
+    unseen attack patterns. Current models (i.e., LLMs) can generate highly semantically coherent text, yet often fail in 
+    robust reasoning abilities necessary for tasks such as complex threat analysis, security planning, or adapting to novel 
+    cyber threats.
     </p>
     
     <p>
-    Researchers have explored many approaches such as Prompt engineering methods (eg. CoT and self-reflection), which 
-    can enhance reasoning abilities to an extent as a temporary and short-term solution, however, they are limited 
+    Researchers have explored many approaches such as prompt engineering methods (e.g., CoT and self-reflection), which 
+    can enhance reasoning abilities to an extent as a temporary and short-term solution; however, they are limited 
     and are not architecturally native to the models. 
     Therefore, my research focuses on developing <strong>differentiable approaches for implementing iterative reasoning</strong> and
-    decision-making in uncertain environments in embodied agents.
-    This involves developing new architectures that can maintain coherent thought processes across multiple inference steps.<br>
+    decision-making for LLM-powered security systems and autonomous threat detection agents.
+    This involves developing new architectures that can maintain coherent thought processes across multiple inference steps 
+    in security-critical contexts.<br>
     </p>
     
-    <p>Currently, I am exploring diffusion models, score-based and flow-based models, differential geometry 
-    (particularly Riemannian geometry), metric learning, energy-based models, joint embedding predictive architectures 
-    operating in the latent spaces among others to design generalizable intelligent agents capable of reasoning 
-    (as an optimization problem), deliberate planning (system 2-like), and able to handle uncertainty (in the inference-time)</p>
+    <p>Currently, I am exploring how advanced reasoning frameworks can improve LLM performance in code generation, 
+    vulnerability detection, and automated security analysis. My work involves integrating deep-think stages with 
+    self-reflection mechanisms and direct thought integration through model surgery techniques, enabling LLMs to reason 
+    more effectively about security problems without requiring extensive fine-tuning.</p>
     
     <p>
-    In a wider context, I am fascinated by the idea of developing a network of specialized networks such as memory and rapid learning,
-    goal-driven planning, spatial reasoning, and error detection and conflict monitoring that operate collaboratively to 
-    consistently make good decisions within a complex environment. I am interested in transformers and attention
-    mechanisms with a bias toward efficient computation in these settings: generative models, multimodal
-    learning, and self-supervised learning.
+    In a wider context, I am fascinated by the idea of developing intelligent security systems that combine specialized 
+    capabilities such as threat memory and rapid learning, goal-driven defense planning, anomaly detection, and error 
+    monitoring that operate collaboratively to make informed security decisions within complex environments. I am interested 
+    in transformers and attention mechanisms with applications in security contexts: adversarial robustness, 
+    multimodal threat detection, and self-supervised learning for zero-day vulnerability discovery.
     </p>
     <br><br>
     <section>
-    <h2>Research Highlights</h2>
+  <h2>Research Highlights</h2>
     <ul>
-        <li><strong>Reasoning and Planning</strong>: Embodied agents able to reason, plan and adapt to new environments</li> 
-        <li><strong>Representation learning</strong>: Efficiently learn the geometry of parameters and data distributions</li>
-        <li><strong>Handling OOD problems</strong>: Robust out-of-distribution generalization</li>
-        <li><strong>Embodied Intelligent Agents</strong>: Agents that comprise the above capabilities and able to learn 
-        while interacting with the world</li>
+        <li><strong>LLM Security and Reasoning</strong>: Developing advanced reasoning frameworks for LLMs in cybersecurity applications</li> 
+        <li><strong>Automated Threat Detection</strong>: Leveraging deep learning for vulnerability analysis and security code generation</li>
+        <li><strong>Model Surgery and Architecture Innovation</strong>: Direct integration of thought processes into LLM hidden states without fine-tuning</li>
+        <li><strong>AI-Powered Security Systems</strong>: Building intelligent agents for autonomous threat detection and response</li>
     </ul>
   </section>
   </section>
@@ -146,14 +146,16 @@ about_content: | # this will include new lines to allow paragraphs
   <section>
     <h2>News</h2>
     <ul>
-        <li>I defended my MSc at the University of Essex - CSEE! (<a href="https://soran-ghaderi.github.io/nir/">Thesis</a>) - Oct. 2024</li> 
+        <li>Completed MSc in Cybersecurity at IU International University of Applied Sciences, Germany - 2024</li>
+        <li>Developed <a href="https://github.com/r0tn3x/llm-reasoning-framework">LLM Reasoning Framework</a> for enhanced code generation and security analysis</li> 
     </ul>
   </section>
   
   <section>
     <h2>Awards</h2>
     <ul>
-        <li>Fully funding scholarship for postgraduate studies in Artificial Intelligence, University of Essex</li>
+        <li>MSc in Cybersecurity, IU International University of Applied Sciences, Germany</li>
+        <li>Bachelor's degree, Singhania University</li>
     </ul>
   </section>
   
@@ -195,17 +197,21 @@ skills_title: Skills
 # more content
 more_content: | # this will include new lines to allow paragraphs
   
-  I'm Dilanka Kaushal Hewage holding a BEng. in computer software engineering since 2018. My academic passions encompass the
-  cutting-edge research conducted in the fields of machine learning; particularly, methods that are
-  trying to understand and represent the surrounding world optimally.<br>
-
-  During my B.Eng., recommendation systems, and bioinformatics were what I was interested in, along which I engrossed in
-  machine learning and deep learning fields. Those were the impetuses to delve more deeply into the theories.
-  Following the outstanding papers and research published by the internationally renowned research-labs and
-  tech-companies for the last few years, on the one hand, I have acquired a general idea of the current challenges scientists
-  are facing. On the other hand, having an avid interest in coding and hands-on stuff, I've got an up-to-date knowledge of
-  current technologies used in the field of machine learning, including a couple of frameworks and libraries as
-  well as some of the well-known optimization and high-performance computing techniques.<br>
+  I'm Dilanka Kaushal Hewage holding an MSc in Cybersecurity from IU International University of Applied Sciences, Germany, 
+  and a bachelor's degree from Singhania University. My academic passions encompass cutting-edge research at the 
+  intersection of artificial intelligence and cybersecurity; particularly, methods that enhance reasoning capabilities 
+  in large language models for security applications.<br>
+  
+  During my postgraduate studies, I developed a deep interest in how LLMs can be architecturally enhanced to perform 
+  complex reasoning tasks, especially in code generation and security analysis contexts. This led me to explore novel 
+  approaches involving deep-think stages with self-reflection and direct integration of thought processes into LLM 
+  hidden states through model surgery techniques. These explorations formed the foundation of my LLM Reasoning Framework, 
+  which enables various LLMs to achieve improved reasoning without requiring fine-tuning.<br>
+  Following the outstanding research published by leading AI security labs and tech companies, I have acquired comprehensive 
+  knowledge of current challenges in LLM security, adversarial robustness, and automated vulnerability detection. 
+  With an avid interest in both theoretical foundations and practical implementations, I've gained extensive hands-on 
+  experience with modern machine learning frameworks, transformer architectures, and optimization techniques relevant to 
+  building secure and robust AI systems.<br>
   <br>
 #  ### Technical skills<br>
 #
