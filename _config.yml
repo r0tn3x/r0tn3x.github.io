@@ -170,9 +170,9 @@ about_content: | # this will include new lines to allow paragraphs
     <li>Certified Penetration Testing Specialist (CPTS)</li>
     <li>Certified Azure Penetration Tester (CAPE)</li>
   </ul>
-
-  <h2>Training & Professional Development</h2>
   <br><br>
+  <h2>Training & Professional Development</h2>
+
   <h3>2024</h3>
   <ul>
     <li>HackerOps - Antisphony Training (Ralph May)</li>
