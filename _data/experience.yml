@@ -1,55 +1,68 @@
-- layout: left
-  #  company: Open Source
-  link: github.com/soran-ghaderi
-  job_title: Postgraduate Student Researcher (Reasoning)
-  dates: Apr 2024 - present
-  #  quote: >
-  #   Short description of the company (optional)
-  description: | # this will include new lines to allow paragraphs
-    - Developed NIR Framework
-    - Researching Reasoning
-
 # Experience template
 - layout: left
-#  company: Open Source
-  link: github.com/soran-ghaderi
-  job_title: Open-Source Developer
-  dates: 2019 - present
-#  quote: >
-#   Short description of the company (optional)
+  company: Dubai Health Authority
+  link: dha.gov.ae
+  job_title: Senior Application Security Engineer
+  dates: May 2022 - Present
+  quote: >
+    Leading healthcare cybersecurity initiatives in Dubai, UAE
   description: | # this will include new lines to allow paragraphs
-    - TorchEBM library- Under development (a high performance and scalable Python lib for energy-based models)
-    - TransformerX library
-    - Emgraph library
-    - Bigraph library
-
-# Experience template
-- layout: left
-#  company: Open Source
-#  link: Link to company (optional)
-  job_title: Teaching Assistant
-  dates: Oct. 2018 - Jan. 2019
-  #  quote: >
-  #   Short description of the company (optional)
-  description: | # this will include new lines to allow paragraphs
-    - Social Networks Analysis: Python, Gephi, and review sessions
+    - Conducting penetration testing engagements on internal systems, addressing vulnerabilities with stakeholders, and recommending remediation measures
+    - Performing red team exercises to simulate real-world attacks, enhancing defensive capabilities and improving incident response
+    - Conducting comprehensive security testing across network, cloud, web application, API environments, IoT, and biomedical devices
+    - Performing SAST and DAST security testing using AppScan, Checkmarx, and BurpSuite Pro to identify vulnerabilities
+    - Handling Imperva DAM (Database Activity Monitoring) to monitor database activities, alerts, and incidents
+    - Performing regular Nessus vulnerability assessments, providing weekly internal reports and monthly reports to DESC
+    - Utilizing malware analysis techniques including reverse engineering and sandboxing to examine potential threats
+    - Blocking IOCs at TIE (Trellix Threat Intelligence Exchange) to prevent malware propagation
+    - Ensuring compliance with security standards (Dubai DESC, OWASP, ISO 27001, GDPR)
+    - Leading incident management efforts during security breaches and coordinating remediation
 
 - layout: left
-  #  company: Open Source
-  link: github.com/soran-ghaderi/EfficientCoF
-  job_title: Undergraduate Research Assistant
-  dates: Sep. 2017 - Jun. 2018
-  #  quote: >
-  #   Short description of the company (optional)
+  company: AIX Investment Group - Burj Khalifa
+  link: aixinvestmentgroup.com
+  job_title: Red Team/Offensive Security Engineer
+  dates: Jan 2019 - Apr 2022
+  quote: >
+    Securing blockchain infrastructure and cryptocurrency trading platforms in Dubai
   description: | # this will include new lines to allow paragraphs
-    - Developed EfficientCof
+    - Conducted penetration testing on blockchain infrastructure and cryptocurrency trading platforms
+    - Performed red team exercises to simulate real-world attacks on blockchain-based systems
+    - Facilitated purple team activities using SCYTHE, Atomic Red Team, CALDERA to enhance security resilience
+    - Conducted DAST and SAST security assessments using HCL App-Scan, Fortify, Checkmarx, and Burp Suite Pro
+    - Collaborated with stakeholders to implement security controls for secure cryptocurrency storage and transmission
+    - Utilized malware analysis techniques to analyze threats to blockchain-based systems
+    - Created comprehensive written reports detailing assessment findings and security recommendations
+    - Provided clear oral briefings to leadership on assessment results and security improvements
 
 - layout: left
-  #  company: Open Source
-#  link:
-  job_title: Intern - KurdCloud
-  dates: Jan. 2017 - Mar. 2018
-  #  quote: >
-  #   Short description of the company (optional)
+  company: Department of Defense
+  link: defence.lk
+  job_title: Red Team/Offensive Security Engineer
+  dates: Jan 2015 - Dec 2018
+  quote: >
+    Nation-state level red team operations in Colombo, Sri Lanka
   description: | # this will include new lines to allow paragraphs
-    - Developed NFC-based Attendance Tracking Systems
+    - Started as trainee red team operator, progressing to seasoned Red Team Operator through continuous training
+    - Received advanced training from premier organizations including MDSec and BlackHat
+    - Conducted red team exercises simulating APT group TTPs to identify and exploit vulnerabilities
+    - Participated in joint exercises with government agencies, military branches, and international partners
+    - Provided expert testimony to senior leadership on red team exercises and penetration testing results
+    - Conducted thorough after-action reviews with actionable recommendations to improve security posture
+    - Participated in developing training materials, procedures, and TTPs for red team operations
+    - Conducted post-exercise debriefs to identify lessons learned and enhance red team effectiveness
+
+- layout: left
+  company: Open Source Community
+  link: github.com/r0tn3x
+  job_title: Security Researcher & Open-Source Developer
+  dates: 2019 - Present
+  quote: >
+    Contributing to cybersecurity and AI security research
+  description: | # this will include new lines to allow paragraphs
+    - Developed LLM Reasoning Framework for enhanced code generation and security analysis
+    - Created security tools and frameworks for offensive security operations
+    - Contributing to open-source penetration testing and red team tooling
+    - Research on AI security, adversarial robustness, and LLM vulnerabilities
+    - Sharing knowledge through technical writeups and tool releases
+    - Collaborating with security researchers on emerging threat research
