@@ -9,7 +9,7 @@
 title: r0tn3x
 brief-intro: Security Researcher
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://r0tn3x.github.io" # the base hostname & protocol for your site
+url: "https://r0tn3x.space" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
