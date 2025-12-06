@@ -54,11 +54,57 @@ I'm proud to hold several industry certifications including:
 
 ### Training & Continuous Learning
 
-I'm a firm believer in continuous learning. Over the years, I've completed advanced training from organizations like:
-- SANS Institute (SEC565, SEC760, SEC660, SEC560)
-- Antisphony Training (Enterprise C2, Active Defense, Modern Evasion)
-- MDSec, Sektor7, Zero-Point Security, Dark Vortex
-- OffSec, Pentester Academy, Mandiant, and more
+2024
+
+- HackerOps - Antisphony Training (Ralph May)
+- Enterprise Attacker Emulation and C2 Implant Development - Antisphony Training (Joff Thyer)
+- Active Defense & Cyber Deception - Antisphony Training (John Strand)
+- Attack Emulation Tools: Atomic Red Team, CALDERA and More - Antisphony Training (Carrie Roberts)
+- Advanced Offensive Tooling - Antisphony Training (Chris Traynor)
+- Modern Initial Access and Evasion Tactics (mgeeky)
+- Offensive Coding (Mr.Un1k0d3r)
+
+2023
+
+- SANS SEC565 - Red Team Operations and Adversary Emulation
+- Advanced Red Team Operations - White Knight Labs
+- Red Team & Operational Security - Dark Vortex (Chetan Nayak)
+- Offensive Tool Development - Dark Vortex (Chetan Nayak)
+- Malware On Steroids - Dark Vortex (Chetan Nayak)
+- Red Team Operator: Malware Development Advanced - Sektor7
+- Adversary Simulation and Red Team Tactics - MDSec
+
+2022
+
+- Red Team Lead (CRTO2) - Zero-Point Security
+- Windows Internals (Pavel Yosifovich)
+- Advanced Windows Exploitation - OffSec
+- Malware Development Intermediate - Sektor7
+- Red Team Training (Mr.Un1k0d3r)
+- Attacking and Defending Active Directory: Advanced Edition Bootcamp - Pentester Academy (Nikhil Mittal)
+
+2021
+
+- Windows User Mode Exploit Development - OffSec
+- Red Team Operator (CRTO) - Zero-Point Security
+- Creative Red Teaming - Mandiant
+
+2019-2020
+
+- SANS SEC760 - Advanced Exploit Development for Penetration Testing
+- SANS SEC660 - Advanced Penetration Testing, Exploit Writing, and Ethical Hacking
+- SANS SEC560 - Enterprise Penetration Testing
+
+2018
+
+- Advanced Software Exploitation - Ptrace Security
+- Vulnerability Discovery and Triage Automation - OffensiveCon
+
+2015-2016
+
+- Reverse Engineering with IDA Pro - BlackHat EU
+- Adversary Simulation and Red Team Tactics - MDSec
+- Att&cking the Enterprise: A Purple Team's Approach to Protecting Your Environment - BlackHat
 
 ### Philosophy
 
