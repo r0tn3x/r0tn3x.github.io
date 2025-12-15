@@ -71,7 +71,7 @@ markdown: kramdown               # Jekyll markdown engine
 # --------------------------------------------------
 #  PERMALINK STRUCTURE
 # --------------------------------------------------
-permalink: /:categories/:title    # e.g. /tech/my-post/
+permalink: /:year/:month/:day/:title/
 
 
 # --------------------------------------------------
