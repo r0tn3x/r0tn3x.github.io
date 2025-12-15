@@ -81,6 +81,11 @@ title: Certifications & Education
 
 ## CTF Achievements
 
-*Building a strong CTF portfolio - check back for competition wins and notable achievements*
+### 2025
+- **Dubai Police CTF** - 12th Place (October 2025)
+- **GISEC CTF** - 3rd Place Individual | 12th Place Team (March 2025)
+
+### 2017
+- **NSA Cyber Challenge** - 10th Place
 
 <br>
