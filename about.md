@@ -152,7 +152,3 @@ I occasionally present at security conferences and contribute to security public
 ---
 
 **Disclaimer**: All content on this blog is for educational purposes only. The techniques and tools discussed should only be used in authorized environments. I do not condone or support any illegal activities.
-
-## Comments
-
-{% include comments.html %}
