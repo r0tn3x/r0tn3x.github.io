@@ -43,6 +43,9 @@
     <div class="headline-wrap">
       <h1 itemprop="headline">{{ page.title }}</h1>
       <h2>{{ page.tagline }}</h2>
+    </div><!--/ .headline-wrap -->
+    <div class="article-wrap" itemprop="text">
+      {{ content }}
       {% if page.tags %}
       <div class="post-tags">
         {% for tag in page.tags %}
@@ -50,9 +53,6 @@
         {% endfor %}
       </div>
       {% endif %}
-    </div><!--/ .headline-wrap -->
-    <div class="article-wrap" itemprop="text">
-      {{ content }}
       <hr />
       <footer role="contentinfo">
         <div class="article-author-bottom">

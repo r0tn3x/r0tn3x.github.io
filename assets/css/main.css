@@ -394,10 +394,10 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
   display: inline-block;
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   color: #fff;
-  padding: 5px 12px;
+  padding: 4px 10px;
   margin: 4px;
   border-radius: 20px;
-  font-size: 0.85em;
+  font-size: 0.7em;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.5px;
