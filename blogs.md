@@ -8,7 +8,7 @@ title: Blogs
 
 ### 2025
 
-- [My Journey: OSCP (2023) → OSCP+ (2025)](https://r0tn3x.github.io/blogs/2025-12-15-oscp/)
+- [My Journey: OSCP (2023) → OSCP+ (2025)](/Reviews/My-Journey-OSCP-2023-OSCP-2025/)
 
 ### Coming Soon
 
