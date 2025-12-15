@@ -62,11 +62,10 @@ links:
 # --------------------------------------------------
 #  BUILD & RENDERING OPTIONS
 # --------------------------------------------------
-timezone: Asia/Shanghai          # IANA time-zone ID (China/Beijing is invalid)
+timezone: Asia/Dubai             # IANA time-zone ID
 future: true                     # Render posts dated in the future
 highlighter: rouge               # Code highlighter; Rouge is default in MM
-# markdown: kramdown             # Jekyll default; uncomment to force
-# pygments: true                 # Legacy option (Rouge supersedes this)
+markdown: kramdown               # Jekyll markdown engine
 
 
 # --------------------------------------------------
